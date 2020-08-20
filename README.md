@@ -1,3 +1,3 @@
 <h2>
-![Hola](/carbon.png)
+<img src="carbon.png">
 </h2>
