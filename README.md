@@ -1,3 +1,3 @@
 <h2>
-<img src="carbon.png">
+<img src="https://i.ibb.co/yFRLWHP/carbon.png" alt="Bienvenido" border="0">
 </h2>
